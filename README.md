@@ -5,4 +5,4 @@
 
 # **Data**
 - Link: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz
-- Data reference: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
+- Reference: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
